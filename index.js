@@ -1,4 +1,4 @@
-const welcome = (name) => {
+const message = (name) => {
     console.log(`Hello ${name}`);
 }
 
