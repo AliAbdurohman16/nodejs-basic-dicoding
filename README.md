@@ -24,3 +24,9 @@ Learning Course Dicoding In Class 'Belajar Membuat Aplikasi Back-End untuk Pemul
 2. Run the following command to run it:
    ```shell
    node ./node-package-manager/index.js
+
+## Run Folder Events
+1. Open a terminal or command prompt on your computer.
+2. Run the following command to run it:
+   ```shell
+   node ./events/index.js
