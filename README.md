@@ -31,8 +31,14 @@ Learning Course Dicoding In Class 'Belajar Membuat Aplikasi Back-End untuk Pemul
    ```shell
    node ./events/index.js
 
-## Run Filesystem
+## Run Folder Filesystem
 1. Open a terminal or command prompt on your computer.
 2. Run the following command to run it:
    ```shell
    node ./filesystem/index.js
+
+## Run Folder Stream
+1. Open a terminal or command prompt on your computer.
+2. Run the following command to run it:
+   ```shell
+   node ./stream/index.js
